@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\alefp\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(26,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\alefp\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(43,17): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+  ConsoleApplication2.vcxproj -> C:\Users\alefp\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
